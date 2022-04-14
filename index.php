@@ -19,16 +19,18 @@
   </section>
 
   <br>
+  <!-- www.asdf.com/segundo/   subcarpeta... -->
   <a href="subcarpeta/paginacarpeta.php">Página en subcarpeta sin diagonal en href</a>
 
   <br>
-  <a href="/subcarpeta/paginacarpeta.php">Página en subcarpeta CON diagonal en href</a>
+  <!-- www.asdf.com   /subcarpeta... -->
+  <a href="/segundo/subcarpeta/paginacarpeta.php">Página en subcarpeta CON diagonal en href</a>
 
   <?php include ('includes/footer.php') ?>
 
   <?php
   echo $_SERVER["DOCUMENT_ROOT"]
-?> 
+?>
 
 </body>
 </html>
