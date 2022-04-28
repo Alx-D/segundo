@@ -11,9 +11,6 @@
 
   <?php include ('includes/header.php') ?>
 
-  <!-- <a href="servicios.html">Servicios</a> -->
-  <!-- <a href="contacto.html">Contacto</a> -->
-
   <section>
     <h1>Soy un contenido</h1>
   </section>
@@ -23,14 +20,12 @@
   <a href="subcarpeta/paginacarpeta.php">Página en subcarpeta sin diagonal en href</a>
 
   <br>
-  <!-- www.asdf.com   /subcarpeta... -->
+  <!-- www.asdf.com   /subcarpeta... PREFERIR ESTE OPCION-->
   <a href="/segundo/subcarpeta/paginacarpeta.php">Página en subcarpeta CON diagonal en href</a>
 
   <?php include ('includes/footer.php') ?>
 
-  <?php
-  echo $_SERVER["DOCUMENT_ROOT"]
-?>
+  <?php  echo $_SERVER["DOCUMENT_ROOT"] ?>
 
 </body>
 </html>

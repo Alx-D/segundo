@@ -13,6 +13,7 @@
 <body>
 
   <?php include '../includes/header.php'; ?>
+  <!-- /* LOS INCLUDES EN SUBCARPETAS VAN COMO RUTAS RELATIVAS*/ -->
 
   <?//php include ('../includes/header.php') ?>
 

@@ -10,7 +10,6 @@
 </head>
 <body>
 
-  <?//phqpq incqqlude ('includes/header.php') ?>
   <?php include (INCLUDES."/header.php"); ?>
 
   <section>
