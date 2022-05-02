@@ -20,7 +20,7 @@
   <a href="subcarpeta/paginacarpeta.php">Página en subcarpeta sin diagonal en href</a>
 
   <br>
-  <!-- www.asdf.com   /subcarpeta... PREFERIR ESTE OPCION-->
+  <!-- www.asdf.com   /subcarpeta... PREFERIR ESTA OPCION-->
   <a href="/segundo/subcarpeta/paginacarpeta.php">Página en subcarpeta CON diagonal en href</a>
 
   <?php include ('includes/footer.php') ?>

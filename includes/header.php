@@ -1,5 +1,3 @@
-<!-- <?php include_once ($_SERVER['DOCUMENT_ROOT'].'/segundo/dirs.php'); ?> -->
-
 <header>
   <h2 style="display: inline-block;">Soy un header</h2>
   <div style="width: 75px; height: auto; display: inline-block;">
